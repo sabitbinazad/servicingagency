@@ -1,4 +1,4 @@
-##Hey This is Sabit Bin Azad
+## Hey This is Sabit Bin Azad
 
 # Servicing Agency Website
 
@@ -31,12 +31,11 @@ This project is a modern and responsive website for **Khalifa AC Fridge Maintena
    ```bash
    git clone https://github.com/sabitbinazad/servicingagency.git
    cd servicingagency
+
 2. **Install dependencies:
-  ```bash
   npm install
 
 3. **Run the development server:
-  ```bash
   npm run dev
 
 4. Open your browser at http://localhost:3000.
