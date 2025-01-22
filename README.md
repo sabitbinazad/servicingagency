@@ -28,14 +28,33 @@ This project is a modern and responsive website for **Khalifa AC Fridge Maintena
 ## Installation & Setup
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone https://github.com/sabitbinazad/servicingagency.git
    cd servicingagency
+   ```
 
-2. **Install dependencies:
+2. **Install dependencies**:
+```bash
   npm install
-
-3. **Run the development server:
+  ```
+4. **Run the development server**:
+```bash
   npm run dev
+```
 
-4. Open your browser at http://localhost:3000.
+6. Open your browser at http://localhost:3000.
+
+## Contribution
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to improve the project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+- **Name**: Sabit Bin Azad
+- **Email**: sabitbinaza01@gmail.com
+- **GitHub**: https://github.com/sabitbinazad
